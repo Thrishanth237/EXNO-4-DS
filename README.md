@@ -1,3 +1,5 @@
+# Name: Thrishanth E
+# REG NO : 212224230291
 # EXNO:4-DS
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
